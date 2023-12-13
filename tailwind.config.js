@@ -1,0 +1,17 @@
+export default {
+  theme: {
+    colors: {
+      green: 'rgba(158, 255, 191, 1)',
+      purple: 'rgba(121, 65, 167, 1)',
+      purpleLight: 'rgba(226, 190, 255, 1)',
+      blue: 'rgba(16, 89, 200, 1)',
+
+      black: 'rgba(0, 0, 0, 1)',
+      darker: 'rgba(16, 16, 16, 1)',
+      dark: 'rgba(35, 35, 35, 1)',
+      gray: 'rgba(134, 134, 134, 1)',
+      grayLight: 'rgba(243, 243, 243, 1)',
+      white: 'rgba(255, 255, 255, 1)',
+    },
+  },
+}
